@@ -1,8 +1,8 @@
 # `pytops`
-An easy to use Python library for pricing options using the Black-Scholes model
+An easy to use Python library for pricing options using the Black-Scholes model.
 
 `pytops` is a python library for calculating option prices and greeks. It uses the Black-Scholes pricing model
-to compute the prices with minimum dependency on external libraries
+to compute the prices with minimum dependency on external libraries.
 
 ### Initial Release Information
 
