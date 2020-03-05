@@ -16,7 +16,6 @@ To install `pytopps` via pip, type the following:
 
 ```
 >>> pip install pytops
-
 ```
 
 Installing `pytops` via pip will automatically install the necessary dependencies,
