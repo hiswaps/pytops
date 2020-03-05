@@ -10,7 +10,7 @@ setup(
     author='Swapnil Joshi',                   # Type in your name
     author_email='work.swaps@gmail.com',      # Type in your E-Mail
     url='https://hiswapnil.me',
-    download_url='https://github.com/hiswaps/pytops/archive/v0.1.tar.gz',
+    download_url='https://github.com/hiswaps/pytops/archive/v0.2.tar.gz',
     # Keywords that define your package best
     keywords=['options', 'trading', 'python', 'data',
               'finance', 'pricing', 'black-scholes', 'derivatives'],
