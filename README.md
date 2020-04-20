@@ -12,7 +12,7 @@ This is the initial release of `pytops`.  Tests and documentation are still inco
 
 `pytops` was written in Python 3.6.  It depends on the ```numpy, scipy,``` & ``` math ``` packages
 
-To install `pytopps` via pip, type the following:
+To install `pytops` via pip, type the following:
 
 ```
 >>> pip install pytops
