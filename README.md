@@ -21,4 +21,4 @@ To install `pytopps` via pip, type the following:
 Installing `pytops` via pip will automatically install the necessary dependencies,
 except for pip, and Python.  This has been tested to work on Windows, Linux and Macintosh OS X.
 
-Python and pip must be installed prior to installing ```pytops```. 
+Python and pip must be installed prior to installing ```pytops```.
