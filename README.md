@@ -1,4 +1,4 @@
-# `pytops (Currently updates in progress)` 
+# `pytops (updates in progress)` 
 An easy to use Python library for pricing options using the Black-Scholes model.
 
 `pytops` is a python library for calculating option prices and greeks. It uses the Black-Scholes pricing model
